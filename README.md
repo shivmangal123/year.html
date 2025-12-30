@@ -253,12 +253,15 @@ const bar=document.getElementById("progressFill");
 const snowmen=document.querySelectorAll(".emoji-snowman");
 
 const messages=[
-"As 2026 begins, may peace fill your heart ❤️",
-"Keep believing in yourself ✨",
-"Grow stronger every day 💪",
-"Respect your parents 🙏",
-"Work hard and stay humble 🌱",
-"2026 is your fresh beginning 🌅"
+"As we step into a new year together✨"
+"May our friendship grow stronger "
+"Our dreams grow bigger"
+"And our hearts stay kind ❤️."
+"No matter where life takes us"
+"let’s keep supporting, smiling"
+"And moving forward — together 🌟."
+"Happy New Year My Friend"
+"With Love  your Friend Shivmangal!”
 ];
 
 submitBtn.onclick=()=>{
