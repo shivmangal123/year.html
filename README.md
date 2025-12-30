@@ -223,18 +223,17 @@ html,body{
       <div class="to" id="toText">Happy New Year 2026 🎆</div>
       <div class="subtitle">A fresh beginning ❄️</div>
     </div>
-
-    <div class="messages">
+        <div class="messages">
       <div class="typewriter">
         <span id="messageText"></span><span class="cursor"></span>
       </div>
     </div>
 
-    <div style="width:100%;display:flex;flex-direction:column;align-items:center;gap:8px">
+  <div style="width:100%;display:flex;flex-direction:column;align-items:center;gap:8px">
       <div class="progress"><i id="progressFill"></i></div>
       <div class="credits">Made with ❤️ by Shivmangal Singh</div>
     </div>
-  </div>
+</div>
 </div>
 
 <script>
